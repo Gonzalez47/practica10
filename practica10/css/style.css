@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color:rgb(204, 247, 179);
+}
+nav{
+    background-color:rgb(34, 33, 33);
+}
+footer {
+	background-color:#76a9e4;
+	height: 18%;
+    
+  color: rgb(0, 0, 0);
+  padding: 25px;
+ 
+}
+.main1 { 
+    display:flex;
+    margin:0 auto;
+  }
